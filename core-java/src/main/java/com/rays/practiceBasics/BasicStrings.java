@@ -13,6 +13,9 @@ public class BasicStrings {
 		String fullName = name1 + " " + name2;
 		 System.out.println(fullName);
 	     System.out.println(name1.length());
+//	     
+//	     String name = name1.concat(name2);
+//	     System.out.println(name);
 
 		
 		
