@@ -16,7 +16,7 @@ public class ArmStrongNo {
 			
 		}
 		if(temp == num) {
-			System.out.println(num + " " +" is arm strong no");
+			System.out.println(num +" is arm strong no");
 		}else {
 			System.out.println(num + "not arm strong no");
 		}
